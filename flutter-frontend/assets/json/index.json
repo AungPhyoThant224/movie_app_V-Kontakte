@@ -1,0 +1,93 @@
+{   
+    "status" : 200,
+    "popular": [
+        {
+            "id": 1,
+            "title": "Big Buck Bunny",
+            "url": "",
+            "image": "https://legendsdigitaltv.com/images/LDTV-Show-Pics/04-Movies/3-Animated-CGI/Big-Buck-Bunny.jpg",
+            "duration": "0",
+            "total_view": 999,
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "created_at": "",
+            "category": [
+                {
+                    "id": 1,
+                    "name": "Cartoon",
+                    "image": "https://elements-cover-images-0.imgix.net/c6fd5011-d581-4a62-b511-273751f61709?auto=compress&crop=edges&fit=crop&fm=jpeg&h=630&w=1200&s=7e324a361e01fc0135c798630d1bcc97",
+                    "created_at": ""
+                }
+            ],
+            "other": []
+        },
+        {
+            "id": 2,
+            "title": "Avengers: End Game",
+            "url": "",
+            "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1578/15789737/3515433-endgamedek.jpg",
+            "duration": "0",
+            "total_view": 998,
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "created_at": "",
+            "category": [
+                {
+                    "id": 2,
+                    "name": "Marvel",
+                    "image": "https://hyperpix.net/wp-content/uploads/2019/08/marvel-logo-font-download.jpg",
+                    "created_at": ""
+                }
+            ],
+            "other": []
+        }
+    ],
+    "new": [
+        {
+            "id": 1,
+            "title": "Big Buck Bunny",
+            "url": "",
+            "image": "https://legendsdigitaltv.com/images/LDTV-Show-Pics/04-Movies/3-Animated-CGI/Big-Buck-Bunny.jpg",
+            "duration": "0",
+            "total_view": 999,
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "created_at": "",
+            "category": [
+                {
+                    "id": 1,
+                    "name": "Cartoon",
+                    "image": "https://elements-cover-images-0.imgix.net/c6fd5011-d581-4a62-b511-273751f61709?auto=compress&crop=edges&fit=crop&fm=jpeg&h=630&w=1200&s=7e324a361e01fc0135c798630d1bcc97",
+                    "created_at": ""
+                }
+            ],
+            "other": []
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Cartoon",
+            "image": "https://elements-cover-images-0.imgix.net/c6fd5011-d581-4a62-b511-273751f61709?auto=compress&crop=edges&fit=crop&fm=jpeg&h=630&w=1200&s=7e324a361e01fc0135c798630d1bcc97",
+            "created_at": ""
+        },
+        {
+            "id": 2,
+            "name": "Mervel",
+            "image": "https://hyperpix.net/wp-content/uploads/2019/08/marvel-logo-font-download.jpg",
+            "created_at": ""
+        },
+        {
+            "id": 3,
+            "name": "DC",
+            "image": "https://wallpaperaccess.com/full/6482687.jpg",
+            "created_at": ""
+        }
+    ],
+    "slider_images": [],
+    "notification": {
+        "id": 1,
+        "title": "Update Available",
+        "description": "New version of the app is available.",
+        "type": "1",
+        "note": "",
+        "created_at": ""
+    }
+}
